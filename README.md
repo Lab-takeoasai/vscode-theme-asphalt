@@ -1,13 +1,13 @@
 # README
-## This is the README for your extension "theme-asphalt"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+## This is the README for my extension "theme-asphalt"
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
++ generated Asphalt theme from http://tmtheme-editor.herokuapp.com
++ **sidebar icons are not supported yet**. (ver 0.10.11, 2016/03/27)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## How to create color theme & install it
 
-**Enjoy!**
++ generate [Theme](http://tmtheme-editor.herokuapp.com) and download it
++ yo code
++ then choose new theme and select the generated theme
++ finally put the project into ~/.vscode/extensions
++ Code > Preference > Color Theme, select it
